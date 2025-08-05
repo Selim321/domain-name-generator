@@ -1,0 +1,62 @@
+[
+  {
+    "business_description": "organic coffee shop in downtown area",
+    "suggested_domains": [
+      "brewtifulcoffee.com, downtownroasters.org, coffeehousecentral.net"
+    ]
+  },
+  {
+    "business_description": "AI-powered resume writing service",
+    "suggested_domains": [
+      "resumebuilder.ai, careercrafted.com, resumesimplified.org"
+    ]
+  },
+  {
+    "business_description": "luxury vegan skincare for men",
+    "suggested_domains": [
+      "kilyve.com, manscience.org, veganluxury.net"
+    ]
+  },
+  {
+    "business_description": "marketplace for second-hand tech gadgets",
+    "suggested_domains": [
+      "techswap.com, gadgetreuse.org, refurbishedcentral.net"
+    ]
+  },
+  {
+    "business_description": "mental health app for teenagers",
+    "suggested_domains": [
+      "mindlink.app, mentalwellness.org, teenhealthhub.net"
+    ]
+  },
+  {
+    "business_description": "subscription box for indie board games",
+    "suggested_domains": [
+      "boardbox.com, gamecrate.org, playbox.net"
+    ]
+  },
+  {
+    "business_description": "eco-friendly cleaning products for homes",
+    "suggested_domains": [
+      "ecoclean.com, greenchoice.org, ecofresh.net"
+    ]
+  },
+  {
+    "business_description": "app that teaches kids to code with robots",
+    "suggested_domains": [
+      "roboticskids.com, robotcode.org, codingbots.net"
+    ]
+  },
+  {
+    "business_description": "fitness app tailored to elderly people",
+    "suggested_domains": [
+      "silverstrengths.com, fitlife.org, activeages.net"
+    ]
+  },
+  {
+    "business_description": "freelancer platform for artists and designers",
+    "suggested_domains": [
+      "artistlink.com, designhub.org, createlink.net"
+    ]
+  }
+]

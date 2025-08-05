@@ -1,0 +1,292 @@
+[
+  {
+    "business_description": "adult dating site with explicit content",
+    "evaluated_domains": [
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 0.7,
+        "has_valid_tld": true,
+        "comment": "The domain name is highly relevant to the business description.  It's relatively catchy and memorable, but the explicit nature of the business impacts the safety score. The .com TLD is valid.",
+        "domain": "AdultPassion.com"
+      },
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 0.0,
+        "has_valid_tld": true,
+        "comment": "The domain name is highly relevant to the business description, and it is catchy and memorable. However, it may not be suitable for all audiences due to its explicit nature. The TLD is valid.",
+        "domain": "DirtyLink.net"
+      },
+      {
+        "relevance": 0.7,
+        "brandability": 0.8,
+        "safety": 1,
+        "has_valid_tld": true,
+        "comment": "The name is catchy and memorable, and relevant to the business. However, given the explicit nature of the site, a higher relevance score might be needed, depending on the specific marketing strategy and target demographic.  The .org TLD is less common for this type of site, which might make it stand out.  Always ensure thorough legal review before launching an adult-oriented website.",
+        "domain": "LoveRebel.org"
+      }
+    ]
+  },
+  {
+    "business_description": "vr platfrom for edukation",
+    "evaluated_domains": [
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The name is highly relevant, easy to understand, and memorable.  It's also safe and uses a common TLD.",
+        "domain": "Educavue.com"
+      },
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "Great name, very relevant to the business.  The .net TLD is also very suitable.",
+        "domain": "Learnix.net"
+      },
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "VistaLearn.org is highly relevant to the business, is memorable and easy to pronounce, and does not contain any inappropriate content. The use of \".org\" is also appropriate for an educational platform.",
+        "domain": "VistaLearn.org"
+      }
+    ]
+  },
+  {
+    "business_description": "\ud83e\udd51 vegan lifestyle for millennials",
+    "evaluated_domains": [
+      {
+        "relevance": 1.0,
+        "brandability": 0.9,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain name is highly relevant to the business description and is catchy and memorable. It does not contain any offensive or inappropriate content. It has a valid TLD.",
+        "domain": "VeganVibes.com"
+      },
+      {
+        "relevance": 0.7,
+        "brandability": 0.8,
+        "safety": 1,
+        "has_valid_tld": false,
+        "comment": "The name is catchy and memorable, but the TLD is not among the most common ones.  The relevance is good, as it evokes a healthy, trendy image associated with veganism and millennials.",
+        "domain": "GreenSlay.co"
+      },
+      {
+        "relevance": 0.9,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain name is highly relevant to the business description, and it is memorable and easy to pronounce.  It also does not contain any offensive or inappropriate content. The .net TLD is acceptable.",
+        "domain": "PlantBasedPro.net"
+      }
+    ]
+  },
+  {
+    "business_description": "cutting-edge pet technology",
+    "evaluated_domains": [
+      {
+        "relevance": 0.9,
+        "brandability": 0.8,
+        "safety": 1,
+        "has_valid_tld": false,
+        "comment": "The name is relevant, brandable, and safe. However, it does not use a common TLD.",
+        "domain": "Petrix.io"
+      },
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain name is highly relevant, uses a catchy word, and is safe. The .net TLD is also acceptable for technology businesses.",
+        "domain": "PawsomeTech.net"
+      },
+      {
+        "relevance": 0.2,
+        "brandability": 0.6,
+        "safety": 1,
+        "has_valid_tld": true,
+        "comment": "The name is catchy, but it does not clearly communicate the business's focus on pet technology.",
+        "domain": "Snipbit.com"
+      }
+    ]
+  },
+  {
+    "business_description": "healing services for the soul",
+    "evaluated_domains": [
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "Excellent choice of name that clearly communicates the business's purpose.  The name is memorable and easy to spell. The .com TLD is highly recommended.",
+        "domain": "SoulRenewal.com"
+      },
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain name is highly relevant to the business description and evokes positive emotions. It's memorable and easy to pronounce.  The .org TLD is appropriate for a wellness-oriented business.",
+        "domain": "HealingHeartSpace.org"
+      },
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain name is highly relevant to the business description and has good brandability. It's memorable and conveys a sense of upliftment and mindfulness, which aligns well with healing services for the soul.  The addition of '.net' is also acceptable for a business of this nature.",
+        "domain": "ElevateMindful.net"
+      }
+    ]
+  },
+  {
+    "business_description": "an app",
+    "evaluated_domains": [
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": false,
+        "comment": "The name is highly relevant to the business and is catchy.  However, it does not have a valid TLD.",
+        "domain": "Appify"
+      },
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": false,
+        "comment": "The name is highly relevant to the business, and it is somewhat catchy and memorable.  However, it does not have a valid TLD.",
+        "domain": "Appzone"
+      },
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": false,
+        "comment": "The name is highly relevant to the business description, and it has good brandability. However, it does not have a valid TLD.",
+        "domain": "Apptopia"
+      }
+    ]
+  },
+  {
+    "business_description": "cannabis-infused fitness drinks",
+    "evaluated_domains": [
+      {
+        "relevance": 0.8,
+        "brandability": 0.9,
+        "safety": 1,
+        "has_valid_tld": false,
+        "comment": "The name is catchy and memorable, and relevant to the business. However, it does not have a valid TLD.",
+        "domain": "Fuelix"
+      },
+      {
+        "relevance": 0.8,
+        "brandability": 0.7,
+        "safety": 1,
+        "has_valid_tld": false,
+        "comment": "The name is catchy and relevant to the business, but it does not end with a valid top-level domain.",
+        "domain": "Fitbuzz"
+      },
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": false,
+        "comment": "The name GreenGlow is relevant to the business and evokes a sense of health and wellness, making it memorable. However, it lacks a valid top-level domain (TLD) such as .com, .org, or .net.",
+        "domain": "GreenGlow"
+      }
+    ]
+  },
+  {
+    "business_description": "\u0623\u062f\u0648\u0627\u062a \u0645\u0637\u0628\u062e \u0630\u0643\u064a\u0629",
+    "evaluated_domains": [
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": false,
+        "comment": "The name is highly relevant to the business and is relatively catchy and memorable.  However, it lacks a valid top-level domain (TLD) like .com, .org or .net.",
+        "domain": "Smartcook"
+      },
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": false,
+        "comment": "The name is highly relevant to the business and is quite catchy, but it doesn't have a valid TLD",
+        "domain": "KitchenGenius"
+      },
+      {
+        "relevance": 0.7,
+        "brandability": 0.8,
+        "safety": 1,
+        "has_valid_tld": false,
+        "comment": "The name is catchy and memorable, but it doesn't directly reflect the Arabic description.  It needs a top-level domain such as .com",
+        "domain": "MealMaster"
+      }
+    ]
+  },
+  {
+    "business_description": "tienda de electr\u00f3nica para gamers",
+    "evaluated_domains": [
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": false,
+        "comment": "The domain name is highly relevant to the business description.  It's relatively catchy and memorable. It does not contain any offensive or inappropriate content. However, it's missing a valid TLD (like .com, .net, .org)",
+        "domain": "GamersZone"
+      },
+      {
+        "relevance": 1,
+        "brandability": 0.8,
+        "safety": 1,
+        "has_valid_tld": false,
+        "comment": "The domain name is highly relevant to the business description.  It's memorable and easy to understand. However, it does not have a valid TLD such as .com, .org, or .net.",
+        "domain": "GameOnShop"
+      },
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain name is highly relevant to the business description.  It's also memorable and easy to understand.  No safety concerns.",
+        "domain": "ElectroGamerCo"
+      }
+    ]
+  },
+  {
+    "business_description": "a startup",
+    "evaluated_domains": [
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain name is highly relevant to a startup, and it is also catchy and memorable.  It does not contain any offensive or inappropriate content and has a valid TLD.",
+        "domain": "LaunchZone.net"
+      },
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain name is highly relevant to the business description and is also memorable.  It is safe and uses a valid TLD.",
+        "domain": "StartupCraft.org"
+      },
+      {
+        "relevance": 1.0,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain name FusionLab.com is highly relevant to a startup in the technology or innovation space.  The combination of \"Fusion\" and \"Lab\" evokes a sense of creativity, experimentation, and cutting-edge technology, which are often associated with startups.  The name is also relatively catchy and memorable.  There are no safety concerns.",
+        "domain": "FusionLab.com"
+      }
+    ]
+  }
+]
