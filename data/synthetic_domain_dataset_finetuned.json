@@ -2,81 +2,61 @@
   {
     "business_description": "organic coffee shop in downtown area",
     "suggested_domains": [
-      "coffeeroom.org",
-      "beanhaven.net",
-      "downtowncup.com"
+      "brewedcoffee.com, urbanbean.org, downtowncup.net"
     ]
   },
   {
     "business_description": "AI-powered resume writing service",
     "suggested_domains": [
-      "ResumeGenie.com",
-      "ResuMeCraft.org",
-      "ResumeGenius.net"
+      "resumerobot.com, resumeoptimizer.org, careercraft.net"
     ]
   },
   {
     "business_description": "luxury vegan skincare for men",
     "suggested_domains": [
-      "Veganix",
-      "Bloomir",
-      "Khaosco"
+      "brawley.co, manscience.org, puro grooming.net"
     ]
   },
   {
     "business_description": "marketplace for second-hand tech gadgets",
     "suggested_domains": [
-      "TechSwap.com",
-      "SecondHandByte.net",
-      "GadgetMarkets.org"
+      "techswap.com, gadgetreuse.org, refurbishedmarket.net"
     ]
   },
   {
     "business_description": "mental health app for teenagers",
     "suggested_domains": [
-      "MindPal.com",
-      "TeenMinds.io",
-      "BloomHub.net"
+      "mindlink.app, mentalhealthhub.org, youthwellness.net"
     ]
   },
   {
     "business_description": "subscription box for indie board games",
     "suggested_domains": [
-      "GameSphere",
-      "BoardCrushBox",
-      "RollWithItCo"
+      "gamecrate.com, boardbox.org, rollwithit.net"
     ]
   },
   {
     "business_description": "eco-friendly cleaning products for homes",
     "suggested_domains": [
-      "EcoClean.com",
-      "GreenSweep.org",
-      "PureHomes.net"
+      "ecoclean.com, greenlife.org, cleanconscience.net"
     ]
   },
   {
     "business_description": "app that teaches kids to code with robots",
     "suggested_domains": [
-      "CodeBots.net",
-      "RobotTeach.com",
-      "MakeRobot.org"
+      "coderobot.com, robot learners.org, makecodebots.net"
     ]
   },
   {
     "business_description": "fitness app tailored to elderly people",
     "suggested_domains": [
-      "GoldenYearsFit.com",
-      "SilverSprintApp.org",
-      "PrimeHealthNet"
+      "fitlife.com, silverstrong.org, agefit.net"
     ]
   },
   {
     "business_description": "freelancer platform for artists and designers",
     "suggested_domains": [
-      "Artista",
-      "DesignDeny",
-      "Creatrix"
+      "designersconnect.com, artify.net, creativelink.org"
     ]
   }
 ]

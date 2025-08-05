@@ -1,0 +1,132 @@
+[
+  {
+    "business_description": "organic coffee shop in downtown area",
+    "evaluated_domains": [
+      {
+        "relevance": 0.0,
+        "brandability": 0.0,
+        "safety": 0.0,
+        "comment": "Unable to parse model response",
+        "has_valid_tld": true,
+        "domain": "brewedcoffee.com, urbanbean.org, downtowncup.net"
+      }
+    ]
+  },
+  {
+    "business_description": "AI-powered resume writing service",
+    "evaluated_domains": [
+      {
+        "relevance": 0.0,
+        "brandability": 0.0,
+        "safety": 0.0,
+        "comment": "Unable to parse model response",
+        "has_valid_tld": true,
+        "domain": "resumerobot.com, resumeoptimizer.org, careercraft.net"
+      }
+    ]
+  },
+  {
+    "business_description": "luxury vegan skincare for men",
+    "evaluated_domains": [
+      {
+        "relevance": 0.0,
+        "brandability": 0.0,
+        "safety": 0.0,
+        "comment": "Unable to parse model response",
+        "has_valid_tld": true,
+        "domain": "brawley.co, manscience.org, puro grooming.net"
+      }
+    ]
+  },
+  {
+    "business_description": "marketplace for second-hand tech gadgets",
+    "evaluated_domains": [
+      {
+        "relevance": 0.0,
+        "brandability": 0.0,
+        "safety": 0.0,
+        "comment": "Unable to parse model response",
+        "has_valid_tld": true,
+        "domain": "techswap.com, gadgetreuse.org, refurbishedmarket.net"
+      }
+    ]
+  },
+  {
+    "business_description": "mental health app for teenagers",
+    "evaluated_domains": [
+      {
+        "relevance": 0.0,
+        "brandability": 0.0,
+        "safety": 0.0,
+        "comment": "Unable to parse model response",
+        "has_valid_tld": true,
+        "domain": "mindlink.app, mentalhealthhub.org, youthwellness.net"
+      }
+    ]
+  },
+  {
+    "business_description": "subscription box for indie board games",
+    "evaluated_domains": [
+      {
+        "relevance": 0.0,
+        "brandability": 0.0,
+        "safety": 0.0,
+        "comment": "Unable to parse model response",
+        "has_valid_tld": true,
+        "domain": "gamecrate.com, boardbox.org, rollwithit.net"
+      }
+    ]
+  },
+  {
+    "business_description": "eco-friendly cleaning products for homes",
+    "evaluated_domains": [
+      {
+        "relevance": 0.0,
+        "brandability": 0.0,
+        "safety": 0.0,
+        "comment": "Unable to parse model response",
+        "has_valid_tld": true,
+        "domain": "ecoclean.com, greenlife.org, cleanconscience.net"
+      }
+    ]
+  },
+  {
+    "business_description": "app that teaches kids to code with robots",
+    "evaluated_domains": [
+      {
+        "relevance": 0.0,
+        "brandability": 0.0,
+        "safety": 0.0,
+        "comment": "Unable to parse model response",
+        "has_valid_tld": true,
+        "domain": "coderobot.com, robot learners.org, makecodebots.net"
+      }
+    ]
+  },
+  {
+    "business_description": "fitness app tailored to elderly people",
+    "evaluated_domains": [
+      {
+        "relevance": 0.0,
+        "brandability": 0.0,
+        "safety": 0.0,
+        "comment": "Unable to parse model response",
+        "has_valid_tld": true,
+        "domain": "fitlife.com, silverstrong.org, agefit.net"
+      }
+    ]
+  },
+  {
+    "business_description": "freelancer platform for artists and designers",
+    "evaluated_domains": [
+      {
+        "relevance": 0.0,
+        "brandability": 0.0,
+        "safety": 0.0,
+        "comment": "Unable to parse model response",
+        "has_valid_tld": true,
+        "domain": "designersconnect.com, artify.net, creativelink.org"
+      }
+    ]
+  }
+]
