@@ -3,12 +3,28 @@
     "business_description": "organic coffee shop in downtown area",
     "evaluated_domains": [
       {
-        "relevance": 0.0,
-        "brandability": 0.0,
-        "safety": 0.0,
-        "comment": "Unable to parse model response",
+        "relevance": 0.8,
+        "brandability": 0.7,
+        "safety": 1.0,
         "has_valid_tld": true,
-        "domain": "brewedcoffee.com, urbanbean.org, downtowncup.net"
+        "comment": "The domain 'brewedcoffee.com' is relevant and brandable for an organic coffee shop. It clearly communicates the core product and service. The TLD is valid.",
+        "domain": "brewedcoffee.com"
+      },
+      {
+        "relevance": 0.8,
+        "brandability": 0.7,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain 'urbanbean.org' is highly relevant to an organic coffee shop in a downtown area, evoking a sense of city life and coffee beans. It is reasonably brandable and has a valid TLD.",
+        "domain": "urbanbean.org"
+      },
+      {
+        "relevance": 0.9,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain name 'downtowncup.net' is highly relevant as it combines 'downtown', indicating the location, with 'cup', clearly referencing coffee. It's also quite brandable and memorable. The .net TLD is valid.",
+        "domain": "downtowncup.net"
       }
     ]
   },
@@ -16,12 +32,28 @@
     "business_description": "AI-powered resume writing service",
     "evaluated_domains": [
       {
-        "relevance": 0.0,
-        "brandability": 0.0,
-        "safety": 0.0,
-        "comment": "Unable to parse model response",
+        "relevance": 0.9,
+        "brandability": 0.8,
+        "safety": 1.0,
         "has_valid_tld": true,
-        "domain": "resumerobot.com, resumeoptimizer.org, careercraft.net"
+        "comment": "The domain name resumerobot.com is highly relevant as it clearly indicates the service relates to resumes and uses 'robot' to imply automation or AI assistance. It's also quite brandable and memorable.",
+        "domain": "resumerobot.com"
+      },
+      {
+        "relevance": 0.9,
+        "brandability": 0.7,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain 'resumeoptimizer.org' is highly relevant as it directly describes the function of optimizing resumes. It is reasonably brandable, though 'optimizer' is a common term. The domain is safe and has a valid TLD (.org).",
+        "domain": "resumeoptimizer.org"
+      },
+      {
+        "relevance": 0.9,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain 'careercraft.net' is highly relevant to an AI-powered resume writing service, suggesting the creation or crafting of careers. It's brandable and memorable, and contains no offensive content.",
+        "domain": "careercraft.net"
       }
     ]
   },
@@ -29,12 +61,28 @@
     "business_description": "luxury vegan skincare for men",
     "evaluated_domains": [
       {
-        "relevance": 0.0,
-        "brandability": 0.0,
-        "safety": 0.0,
-        "comment": "Unable to parse model response",
+        "relevance": 0.2,
+        "brandability": 0.6,
+        "safety": 1.0,
+        "has_valid_tld": false,
+        "comment": "The domain name brawley.co is not very relevant to luxury vegan skincare for men. While it is somewhat brandable, it doesn't convey the business's nature. It also doesn't have a .com, .org, or .net TLD.",
+        "domain": "brawley.co"
+      },
+      {
+        "relevance": 0.7,
+        "brandability": 0.8,
+        "safety": 1.0,
         "has_valid_tld": true,
-        "domain": "brawley.co, manscience.org, puro grooming.net"
+        "comment": "The domain 'manscience.org' is highly brandable and relevant to the luxury vegan skincare for men business. The term 'man science' implies a scientific and sophisticated approach to men's grooming, which aligns well with the luxury aspect. The '.org' TLD is valid, and there are no safety concerns.",
+        "domain": "manscience.org"
+      },
+      {
+        "relevance": 0.8,
+        "brandability": 0.7,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain 'puro' could imply purity, which aligns well with vegan skincare. 'Grooming' is a direct match for men's skincare. The .net TLD is valid.",
+        "domain": "puro grooming.net"
       }
     ]
   },
@@ -42,12 +90,28 @@
     "business_description": "marketplace for second-hand tech gadgets",
     "evaluated_domains": [
       {
-        "relevance": 0.0,
-        "brandability": 0.0,
-        "safety": 0.0,
-        "comment": "Unable to parse model response",
+        "relevance": 0.9,
+        "brandability": 0.8,
+        "safety": 1.0,
         "has_valid_tld": true,
-        "domain": "techswap.com, gadgetreuse.org, refurbishedmarket.net"
+        "comment": "The domain 'techswap.com' is highly relevant as it clearly communicates the purpose of a marketplace for swapping or trading technology gadgets. It's also quite brandable due to its conciseness and memorable nature.",
+        "domain": "techswap.com"
+      },
+      {
+        "relevance": 0.9,
+        "brandability": 0.7,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain name 'gadgetreuse.org' is highly relevant to a marketplace for second-hand tech gadgets. It clearly communicates the purpose of the site. It's reasonably brandable, though perhaps not exceptionally catchy. The name is safe and appropriate. The .org TLD is valid.",
+        "domain": "gadgetreuse.org"
+      },
+      {
+        "relevance": 0.9,
+        "brandability": 0.7,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain name 'refurbishedmarket.net' is highly relevant as it clearly indicates a marketplace for refurbished (second-hand) tech gadgets. It's reasonably brandable and easy to remember. The TLD is valid.",
+        "domain": "refurbishedmarket.net"
       }
     ]
   },
@@ -55,12 +119,28 @@
     "business_description": "mental health app for teenagers",
     "evaluated_domains": [
       {
-        "relevance": 0.0,
-        "brandability": 0.0,
-        "safety": 0.0,
-        "comment": "Unable to parse model response",
+        "relevance": 0.8,
+        "brandability": 0.7,
+        "safety": 1.0,
+        "has_valid_tld": false,
+        "comment": "The domain name is relevant as 'mind' relates to mental health and 'link' suggests connection, which is suitable for an app. However, the .app TLD is not considered a standard TLD for rating purposes.",
+        "domain": "mindlink.app"
+      },
+      {
+        "relevance": 0.9,
+        "brandability": 0.8,
+        "safety": 1.0,
         "has_valid_tld": true,
-        "domain": "mindlink.app, mentalhealthhub.org, youthwellness.net"
+        "comment": "The domain 'mentalhealthhub.org' is highly relevant to a mental health app for teenagers, as 'hub' suggests a central place for resources and support. It's also brandable and safe.",
+        "domain": "mentalhealthhub.org"
+      },
+      {
+        "relevance": 0.9,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain 'youthwellness.net' is highly relevant to a mental health app for teenagers, as 'youth' directly addresses the target demographic and 'wellness' aligns with the app's purpose. It's brandable due to its clear and positive message, and it's safe as it contains no inappropriate content. The .net TLD is valid.",
+        "domain": "youthwellness.net"
       }
     ]
   },
@@ -68,12 +148,28 @@
     "business_description": "subscription box for indie board games",
     "evaluated_domains": [
       {
-        "relevance": 0.0,
-        "brandability": 0.0,
-        "safety": 0.0,
-        "comment": "Unable to parse model response",
+        "relevance": 0.8,
+        "brandability": 0.7,
+        "safety": 1,
         "has_valid_tld": true,
-        "domain": "gamecrate.com, boardbox.org, rollwithit.net"
+        "comment": "The domain 'gamecrate.com' is highly relevant as 'crate' suggests a box or subscription, aligning well with a subscription box service for board games. It's reasonably brandable and has a valid TLD.",
+        "domain": "gamecrate.com"
+      },
+      {
+        "relevance": 0.9,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "This domain name is highly relevant and brandable, clearly indicating the service offered. The .org TLD is suitable for a community-focused or curated service.",
+        "domain": "boardbox.org"
+      },
+      {
+        "relevance": 0.8,
+        "brandability": 0.9,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain name 'rollwithit.net' is highly relevant and brandable for a subscription box focused on indie board games. The phrase 'roll with it' evokes the act of playing board games and suggests adaptability and fun, which aligns well with the indie gaming community. The .net TLD is also valid.",
+        "domain": "rollwithit.net"
       }
     ]
   },
@@ -81,12 +177,28 @@
     "business_description": "eco-friendly cleaning products for homes",
     "evaluated_domains": [
       {
-        "relevance": 0.0,
-        "brandability": 0.0,
-        "safety": 0.0,
-        "comment": "Unable to parse model response",
+        "relevance": 1.0,
+        "brandability": 0.9,
+        "safety": 1.0,
         "has_valid_tld": true,
-        "domain": "ecoclean.com, greenlife.org, cleanconscience.net"
+        "comment": "This domain name is highly relevant and brandable, perfectly aligning with the business description of eco-friendly cleaning products.",
+        "domain": "ecoclean.com"
+      },
+      {
+        "relevance": 0.9,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "This domain is highly relevant and brandable for eco-friendly cleaning products, and the .org TLD suggests a focus on environmental or community aspects.",
+        "domain": "greenlife.org"
+      },
+      {
+        "relevance": 0.9,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain name 'cleanconscience.net' is highly relevant to eco-friendly cleaning products for homes, suggesting a brand that is both effective and ethical. It's memorable and has positive connotations. The .net TLD is valid.",
+        "domain": "cleanconscience.net"
       }
     ]
   },
@@ -94,12 +206,28 @@
     "business_description": "app that teaches kids to code with robots",
     "evaluated_domains": [
       {
-        "relevance": 0.0,
-        "brandability": 0.0,
-        "safety": 0.0,
-        "comment": "Unable to parse model response",
+        "relevance": 0.9,
+        "brandability": 0.8,
+        "safety": 1.0,
         "has_valid_tld": true,
-        "domain": "coderobot.com, robot learners.org, makecodebots.net"
+        "comment": "The domain name 'coderobot.com' is highly relevant as it directly combines 'code' and 'robot', clearly indicating the app's purpose of teaching kids to code with robots. It's also quite brandable and memorable due to its simplicity and directness. The domain is safe and has a valid TLD.",
+        "domain": "coderobot.com"
+      },
+      {
+        "relevance": 0.9,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain name is highly relevant as it clearly communicates the app's purpose of teaching children coding through robots. It is also quite brandable and memorable.",
+        "domain": "robot learners.org"
+      },
+      {
+        "relevance": 1,
+        "brandability": 0.8,
+        "safety": 1,
+        "has_valid_tld": true,
+        "comment": "The domain name is highly relevant as it clearly indicates the purpose of the app, which is to 'make code' and involves 'bots'. It's also brandable and memorable.",
+        "domain": "makecodebots.net"
       }
     ]
   },
@@ -107,12 +235,28 @@
     "business_description": "fitness app tailored to elderly people",
     "evaluated_domains": [
       {
-        "relevance": 0.0,
-        "brandability": 0.0,
-        "safety": 0.0,
-        "comment": "Unable to parse model response",
+        "relevance": 0.8,
+        "brandability": 0.8,
+        "safety": 1.0,
         "has_valid_tld": true,
-        "domain": "fitlife.com, silverstrong.org, agefit.net"
+        "comment": "The domain name 'fitlife.com' is highly relevant to a fitness app, and 'fit' strongly suggests health and wellness. 'Life' implies longevity and a positive lifestyle, which resonates well with the target audience of elderly people. It is also catchy and memorable.",
+        "domain": "fitlife.com"
+      },
+      {
+        "relevance": 0.9,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain 'silverstrong.org' is highly relevant to a fitness app for the elderly, combining 'silver' (often associated with seniors) and 'strong' (indicating fitness). It is brandable and memorable.",
+        "domain": "silverstrong.org"
+      },
+      {
+        "relevance": 0.9,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain name 'agefit.net' is highly relevant as it combines 'age' and 'fit', clearly indicating a fitness app for a specific age group. It is also brandable and memorable. The TLD is valid.",
+        "domain": "agefit.net"
       }
     ]
   },
@@ -120,12 +264,28 @@
     "business_description": "freelancer platform for artists and designers",
     "evaluated_domains": [
       {
-        "relevance": 0.0,
-        "brandability": 0.0,
-        "safety": 0.0,
-        "comment": "Unable to parse model response",
+        "relevance": 0.9,
+        "brandability": 0.8,
+        "safety": 1.0,
         "has_valid_tld": true,
-        "domain": "designersconnect.com, artify.net, creativelink.org"
+        "comment": "The domain 'designersconnect.com' is highly relevant to a freelancer platform for artists and designers as it clearly indicates a place for designers to connect. It is also quite brandable and memorable. The domain is safe and has a valid TLD.",
+        "domain": "designersconnect.com"
+      },
+      {
+        "relevance": 0.9,
+        "brandability": 0.8,
+        "safety": 1,
+        "has_valid_tld": true,
+        "comment": "Artify.net is a highly relevant and brandable domain name for a freelancer platform for artists and designers. The name is catchy, memorable, and directly relates to the creative nature of the platform. It also has a valid TLD.",
+        "domain": "artify.net"
+      },
+      {
+        "relevance": 0.8,
+        "brandability": 0.8,
+        "safety": 1.0,
+        "has_valid_tld": true,
+        "comment": "The domain name 'creativelink.org' is highly relevant to a freelancer platform for artists and designers, as 'creative' directly relates to the target audience and 'link' suggests connection and collaboration. It is also brandable and memorable. The TLD is valid.",
+        "domain": "creativelink.org"
       }
     ]
   }

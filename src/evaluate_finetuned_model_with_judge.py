@@ -63,6 +63,9 @@ def ask_judge_llm(description: str, domain: str) -> DomainEvaluation:
             generation_config=genai.types.GenerationConfig(response_mime_type="application/json")
         )
         text = response.text or ""
+        # Clean the response in case it's wrapped in markdown
+        if text.strip().startswith("```json"):
+            text = text.strip()[7:-3].strip()
         data = json.loads(text)
         # fallback in case model misses the has_valid_tld
         data["has_valid_tld"] = domain.lower().endswith(tuple(VALID_TLDS))
@@ -97,12 +100,19 @@ def main():
             continue
 
         results = []
-        for dom in item.get("suggested_domains", []):
-            eval_ = ask_judge_llm(desc, dom)
-            eval_["domain"] = dom
-            results.append(eval_)
-            time.sleep(5) # Respect rate limits
-        
+        # The value is a list containing a single string of comma-separated domains
+        if item.get("suggested_domains"):
+            domain_string = item["suggested_domains"][0]
+            individual_domains = [d.strip() for d in domain_string.split(',')]
+
+            for dom in individual_domains:
+                if not dom:
+                    continue
+                eval_ = ask_judge_llm(desc, dom)
+                eval_["domain"] = dom
+                results.append(eval_)
+                time.sleep(5) # Respect rate limits
+
         evaluated.append({
             "business_description": desc,
             "evaluated_domains": results
