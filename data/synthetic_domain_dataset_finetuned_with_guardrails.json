@@ -1,0 +1,79 @@
+[
+  {
+    "business_description": "organic coffee shop in downtown area",
+    "suggested_domains": [
+      "brewedcoffee.com",
+      "downtowncup.org",
+      "cityroast.net"
+    ]
+  },
+  {
+    "business_description": "AI-powered resume writing service",
+    "suggested_domains": [
+      "jobmatch.net"
+    ]
+  },
+  {
+    "business_description": "luxury vegan skincare for men",
+    "suggested_domains": [
+      "veganlad.com",
+      "manscience.net",
+      "luxurygroom.org"
+    ]
+  },
+  {
+    "business_description": "marketplace for second-hand tech gadgets",
+    "suggested_domains": [
+      "techrecycle.com",
+      "gadgetgrid.org",
+      "refurbstore.net"
+    ]
+  },
+  {
+    "business_description": "mental health app for teenagers",
+    "suggested_domains": [
+      "mindlink.org",
+      "mentalhealthhub.net"
+    ]
+  },
+  {
+    "business_description": "subscription box for indie board games",
+    "suggested_domains": [
+      "boardgamebox.com",
+      "gamelife.org",
+      "rollwithit.net"
+    ]
+  },
+  {
+    "business_description": "eco-friendly cleaning products for homes",
+    "suggested_domains": [
+      "ecoshine.com",
+      "greenlife.net",
+      "ecochoices.org"
+    ]
+  },
+  {
+    "business_description": "app that teaches kids to code with robots",
+    "suggested_domains": [
+      "robotcodeacademy.com",
+      "littleprogrammers.net",
+      "kidrobotcoders.org"
+    ]
+  },
+  {
+    "business_description": "fitness app tailored to elderly people",
+    "suggested_domains": [
+      "goldensyearsfit.com",
+      "stayactive.org",
+      "seniorsfitness.net"
+    ]
+  },
+  {
+    "business_description": "freelancer platform for artists and designers",
+    "suggested_domains": [
+      "artify.com",
+      "designerhub.org",
+      "createlink.net"
+    ]
+  }
+]
